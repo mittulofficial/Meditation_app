@@ -18,7 +18,7 @@ An app that make you calm, relief, relax, and focus 🧘
 
 ### Author
 
-[Phat Panhareach](https://github.com/Re4ch-Jay/)
+[Phat Panhareach](https://github.com/mittulofficial/)
 
 
 ### Usage
