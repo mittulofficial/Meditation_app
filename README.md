@@ -25,7 +25,7 @@ An app that make you calm, relief, relax, and focus 🧘
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Re4ch-Jay/Meditation_App.git
+$ git clone https://github.com/mittulofficial/Meditation_app
 
 # Install dependencies
 $ flutter packages get
